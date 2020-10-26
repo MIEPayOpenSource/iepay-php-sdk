@@ -1,0 +1,19 @@
+{
+    "name": "iepay/iepay-php-sdk",
+    "type": "library",
+    "description": "IEPay PHP SDK",
+    "keywords": ["iepay", "orders", "payments", "refunds"],
+    "homepage": "https://iepay-api.netlify.app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IEPay"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "IEPaySDK\\": "src"
+        }
+    }
+}
+
